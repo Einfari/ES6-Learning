@@ -1,0 +1,25 @@
+{
+  "name": "es6_learning",
+  "version": "1.0.0",
+  "description": "ES6 Learning From ruanyifeng.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saturnast/ES6-Learning.git"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Saturn <niuleipeng@hotmail.com> (http://www.niuleipeng.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saturnast/ES6-Learning/issues"
+  },
+  "homepage": "https://github.com/saturnast/ES6-Learning#readme",
+  "devDependencies": {
+    "babel-cli": "^6.6.5"
+  }
+}
